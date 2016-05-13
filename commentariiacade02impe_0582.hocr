@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./commentariiacade02impe_0582.png"; bbox 0 0 2111 1929; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1093 100 1817 161">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1093 100 1817 161">
+     <span class='ocr_line' id='line_1_1' title="bbox 1093 100 1817 161; baseline 0.012 -30"><span class='ocrx_word' id='word_1_1' title='bbox 1093 101 1266 146; x_wconf 48' lang='lat' dir='ltr'><em>L1&#39;712771,.Jc3</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1278 134 1319 158; x_wconf 39' lang='lat' dir='ltr'><em>„f</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1352 104 1395 134; x_wconf 68' lang='lat' dir='ltr'><em>St</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1412 100 1722 161; x_wconf 56' lang='lat' dir='ltr'><em>‘123m]l.(l[&#39;ll⁷.-?‘7.f&#39;.</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1738 112 1817 140; x_wconf 25' lang='lat'><em>1378*</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 355 187 1736 1772">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 355 187 1736 1772">
+     <span class='ocr_line' id='line_1_2' title="bbox 355 187 1736 1772; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 355 187 1736 1772; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

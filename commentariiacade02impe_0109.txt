@@ -1,0 +1,36 @@
+merraoch. 97
+
+'vt inde traiec'toriae reciprocae eruantur , id quod vix
+praestariposset‚ fi simplices velalgebraicae desiderentur,
+sed vt inde adipiscar solutionem problematis de inue-
+niendis traiectoriis reciprocis pluribus vno axibus gau-
+dentibuS, quod Anonymus Anglus Cel. Iob. Bernoul-
+lio proposuit. At nunc ad alium pergo modum per-
+quam foecundum in exhibendis traiectoriis simpliciori-
+bus , et praecipue algebraicis, Persequar autem hic il-
+lum tantum problematis casum ‚ quo anguiusintersedtio-
+nis ponitur reitus 3 cum facillime reliqui casus omnes
+ad hunc reducantur,
+
+XV. Sit CBD traiectoria orthogonaliS, cuius a· Fig. IV.
+xis sit AB quem ad angulos renos secet resta PQ3 Du-
+cantur duae applicatae ΡΜ, QN, axi AB parallelae, v-
+trinque aeque distantes ab eodem ‚ illisque proximae,pm
+qn ‚ nec non bafi PQ parallelae MR , NS. Erunt trian-
+gula MRm, nsN‚ similia, ob SnN-i—RmMzrecto. Sint
+ΑΡΞλΑ PM:y , erunt szMdex , Rmz-‘lZy
+nec non AQ:-x ‚ quNSz-dx3 fit QN:z‚ seu
+Snzdz. Ex similitudine triangulorum MRm,nSN de-
+ducetur MR (τως Rm<a⁷y):Sn(dz) ι SN(—d.r) vnde e-
+rit dydzz-dr2. Ex qua aequatione inueniri debet y.
+Etenim z ab y dependet ‚ quia in expressione ipsius y,
+pofito loco ‚rs—x, habetur z.
+
+XVI. Ponatur disz‘pdr ‚ est autem p functio i-
+psius x. Abeat ea, posito -κ, loco x in q,erit dez-qu
+et consequenter erit pqu Vnde patet, loco p talem
+sumi debere ipfius x functionem, ex qua faetum in ean-
+
+dem, sed loco x posito -x adaequet vnitatem. Totum
+Toni, ΙΙ, N ergo
+
